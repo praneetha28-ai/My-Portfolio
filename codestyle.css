@@ -64,8 +64,8 @@ footer{
 }
 .row1{
     background-color: rgb(231, 219, 177);
-    margin-top: -2%;
-    height: 550px;
+    margin-top: -12%;
+    height: 600px;
 }
 .row1 img{
     width: 600px;
@@ -75,7 +75,7 @@ footer{
 }
 .row1 h3{
     margin-left: 55%;
-    margin-top: -25%;
+    margin-top: 8%;
     font-size: xx-large;
     text-align: left;
     font-size: xxx-large;
@@ -103,14 +103,14 @@ footer{
 }
 .row2 h3{
     margin-left: 55%;
-    margin-top: -25%;
+    margin-top: -1%;
     font-size: xxx-large;
     text-align: left;
     color: rgb(223, 130, 130);
 }
 .row2 p{
     margin-left: 55%;
-    margin-top: -1%;
+    margin-top: 8%;
     font-size: xx-large;
     text-align: left;
     font-size: xx-large;
